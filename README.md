@@ -22,8 +22,6 @@ Jupyter Notebook(s) written in Python.
 
 
 ## 2 Credits/References<a class="anchor" id="2"></a>
-
-# 11. References<a class="anchor" id="Code_Objective_11"></a>
 1. Kernel (image processing)[https://en.wikipedia.org/wiki/Kernel_(image_processing)] <a class="anchor" id="Ref_1"></a>  
 
 2. tf.nn.conv2d [https://www.tensorflow.org/api_docs/python/tf/nn/conv2d] <a class="anchor" id="Ref_2"></a>   
