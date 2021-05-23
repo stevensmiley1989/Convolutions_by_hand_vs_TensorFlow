@@ -3,6 +3,7 @@
 
 This repository hosts a Jupyter Notebook used to understand Convolutions performed by hand and with TensorFlow.
 ![Custom_Output](https://github.com/stevensmiley1989/Convolutions_by_hand_vs_TensorFlow/blob/main/Images/Conv2d_Custom_S2.gif)
+![Image by author, inspired by source.](https://cs231n.github.io/convolutional-networks/)
 
 ![Input Reindeer](https://github.com/stevensmiley1989/Convolutions_by_hand_vs_TensorFlow/blob/main/Images/input_reindeer.png)
 ![Output Reindeer](https://github.com/stevensmiley1989/Convolutions_by_hand_vs_TensorFlow/blob/main/Images/output_reindeer.png)
